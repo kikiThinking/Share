@@ -15,7 +15,7 @@
 ## 安装
 
 ```bash
-go get github.com/hirochachacha/go-smb2
+go get github.com/kikiThinking/Share
 ```
 
 ## 快速开始
@@ -30,7 +30,7 @@ import (
 	"log"
 	"time"
 	
-	"github.com/your-repo/share"
+	"github/kikiThinking/Share"
 )
 
 func main() {

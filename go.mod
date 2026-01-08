@@ -1,4 +1,4 @@
-module Share
+module github.com/kikiThinking/Share
 
 go 1.25.3
 
